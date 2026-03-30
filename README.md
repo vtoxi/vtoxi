@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm learning AI with Python<br>Full stack developer<br>8 years of grinding<br>C# .NET, Angular TS, Azure 
+AI Driven developer<br>Full stack developer<br>10 years of grinding<br>C# .NET, Angular TS, Azure 
 
 
 ## 🌐 Socials:
