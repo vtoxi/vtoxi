@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Faisal%20Shafi&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20IoT%20tinkerer%20%C2%B7%20Builder%20of%20things&descAlignY=60&descSize=18" width="100%" alt="Faisal Shafi banner" />
 
+<h1>Faisal Shafi</h1>
+
+**Full-stack developer · IoT tinkerer · Builder of things**
+
 [![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC%20HIRE%20ME-Available%20for%20work-22c55e?style=for-the-badge)](mailto:faisalshafi69@gmail.com?subject=Project%20inquiry%20from%20GitHub)
 [![Buy Me a Coffee](https://img.shields.io/badge/%E2%98%95%20BUY%20ME%20A%20COFFEE-Support%20my%20work-ffdd00?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/faisalshafi)
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-vtoxi.com-6366f1?style=for-the-badge)](https://vtoxi.com)
@@ -35,8 +39,8 @@ A **Gemini ♊** developer from **Islamabad, Pakistan**, so naturally I'm curiou
 | 🚗 [**esp32-cam-dashcam**](https://github.com/vtoxi/esp32-cam-dashcam) | CarSentinel: distributed ESP32 vehicle dashcam, security and telemetry platform |
 | 🛍️ [**EtsyHunt**](https://github.com/vtoxi/EtsyHunt) | Free Chrome extension for Etsy niche research: keywords, snapshots, audits and scored reports |
 | 📦 [**amazonhunt-browser-extension**](https://github.com/vtoxi/amazonhunt-browser-extension) | Amazon niche research with listing audits and GO/NO-GO scoring |
-| ✂️ [**cutwise-ai**](https://github.com/vtoxi/cutwise-ai) | Carpenter tool for optimized cutting |
-| 🧰 [**EtsyBulkEditor**](https://github.com/vtoxi/EtsyBulkEditor) | Chrome extension for bulk editing Etsy shop listings |
+| 🗺️ [**layout-map**](https://github.com/vtoxi/layout-map) | Browser-based floor-plan CAD editor with 3D walkthrough and openHAB smart-home sync, deployable on a Raspberry Pi |
+| 🔧 [**swagger-helper-chrome-extension**](https://github.com/vtoxi/swagger-helper-chrome-extension) | Chrome extension that auto-detects Swagger UI and adds auto-login, token injection, environment switching and copy-as-cURL |
 
 *Most of my client work lives in private repositories.*
 
