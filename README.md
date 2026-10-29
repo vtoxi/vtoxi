@@ -4,6 +4,7 @@
 
 [![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC%20HIRE%20ME-Available%20for%20work-22c55e?style=for-the-badge)](mailto:faisalshafi69@gmail.com?subject=Project%20inquiry%20from%20GitHub)
 [![Buy Me a Coffee](https://img.shields.io/badge/%E2%98%95%20BUY%20ME%20A%20COFFEE-Support%20my%20work-ffdd00?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/faisalshafi)
+[![Portfolio](https://img.shields.io/badge/%E2%9C%A8%20PORTFOLIO-vtoxi.github.io-0ea5e9?style=for-the-badge)](https://vtoxi.github.io)
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-vtoxi.com-6366f1?style=for-the-badge)](https://vtoxi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalshafi11)
 
