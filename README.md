@@ -35,8 +35,8 @@ A **Gemini ♊** developer from **Islamabad, Pakistan**, so naturally I'm curiou
 | 🚗 [**esp32-cam-dashcam**](https://github.com/vtoxi/esp32-cam-dashcam) | CarSentinel: distributed ESP32 vehicle dashcam, security and telemetry platform |
 | 🛍️ [**EtsyHunt**](https://github.com/vtoxi/EtsyHunt) | Free Chrome extension for Etsy niche research: keywords, snapshots, audits and scored reports |
 | 📦 [**amazonhunt-browser-extension**](https://github.com/vtoxi/amazonhunt-browser-extension) | Amazon niche research with listing audits and GO/NO-GO scoring |
-| ✂️ [**cutwise-ai**](https://github.com/vtoxi/cutwise-ai) | Carpenter tool for optimized cutting |
-| 🧰 [**EtsyBulkEditor**](https://github.com/vtoxi/EtsyBulkEditor) | Chrome extension for bulk editing Etsy shop listings |
+| 🗺️ [**layout-map**](https://github.com/vtoxi/layout-map) | Browser-based floor-plan CAD editor with 3D walkthrough and openHAB smart-home sync, deployable on a Raspberry Pi |
+| 🔧 [**swagger-helper-chrome-extension**](https://github.com/vtoxi/swagger-helper-chrome-extension) | Chrome extension that auto-detects Swagger UI and adds auto-login, token injection, environment switching and copy-as-cURL |
 
 *Most of my client work lives in private repositories.*
 
