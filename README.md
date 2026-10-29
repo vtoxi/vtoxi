@@ -11,7 +11,7 @@
 
 ## 👋 Hey, I'm Faisal
 
-A **Gemini ♊** developer from **Islamabad, Pakistan**, so naturally I'm curious about *everything*. For **10 years** I've been building web and cloud products with **C# / .NET**, **Angular** and **Azure**, and I use AI tools every day to ship faster. When the laptop closes, the soldering iron comes out: I tinker with **IoT** on **Raspberry Pi, ESP32 and Arduino**.
+A **Gemini ♊** developer from **Islamabad, Pakistan**, so naturally I'm curious about *everything*. I've been building web and cloud products since **mid-2015**, which makes it **<!--YEARS-->11<!--/YEARS--> years** and counting, with **C# / .NET**, **Angular** and **Azure**, and I use AI tools every day to ship faster. When the laptop closes, the soldering iron comes out: I tinker with **IoT** on **Raspberry Pi, ESP32 and Arduino**.
 
 - 💼 **By day:** full-stack apps, APIs, dashboards and cloud backends for businesses
 - 🔌 **By night:** sensors, pumps, cameras and tiny computers that talk to each other
