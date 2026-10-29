@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,20,24&text=Faisal%20Shafi&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Full-stack%20developer%20%C2%B7%20IoT%20tinkerer%20%C2%B7%20Builder%20of%20things&descAlignY=60&descSize=18" width="100%" alt="Faisal Shafi banner" />
 
-<h1>Faisal Shafi</h1>
-
-**Full-stack developer · IoT tinkerer · Builder of things**
-
 [![Hire Me](https://img.shields.io/badge/%F0%9F%92%BC%20HIRE%20ME-Available%20for%20work-22c55e?style=for-the-badge)](mailto:faisalshafi69@gmail.com?subject=Project%20inquiry%20from%20GitHub)
 [![Buy Me a Coffee](https://img.shields.io/badge/%E2%98%95%20BUY%20ME%20A%20COFFEE-Support%20my%20work-ffdd00?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/faisalshafi)
 [![Website](https://img.shields.io/badge/%F0%9F%8C%90%20WEBSITE-vtoxi.com-6366f1?style=for-the-badge)](https://vtoxi.com)
